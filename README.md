@@ -3,10 +3,9 @@
 ![React Todo](2025-11-13.png)
 
 ![Hey..!](<2025-11-13 (1).png>)
-
-A simple and efficient Todo application built using React, Redux Toolkit, React Router, and Material-UI (MUI). Jumpstart your React.js project with this repository, complete with a powerful state management setup, responsive design, and API integration / JSON-server as a ready API.
- ---
-
+   
+A simple, efficient Todo app built with React, Redux Toolkit, React Router, and Material-UI (MUI). Includes responsive UI, robust state management, and a ready-to-run JSON-server API for quick development and testing.
+    ---
 ##  Tech Stack
 
   - React
