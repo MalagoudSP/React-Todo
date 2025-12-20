@@ -6,7 +6,8 @@
 
 A simple, efficient Todo app built with React, Redux Toolkit, React Router, and Material-UI (MUI). Includes responsive UI, robust state management, and a ready-to-run JSON-server API for quick development and testing.
 
-### Live demo: react-todo-iota-ruby.vercel.app
+### Live demo: 
+react-todo-iota-ruby.vercel.app
 
 ---
 ##  Tech Stack
