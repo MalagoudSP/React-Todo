@@ -1,4 +1,4 @@
-# React Todos App
+# React Todo App
 
 ![React Todo](2025-11-13.png)
 
