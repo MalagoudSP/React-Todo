@@ -9,7 +9,7 @@ A simple, efficient Todo app built with React, Redux Toolkit, React Router, and 
 
 Live demo:https://react-todo-iota-ruby.vercel.app/
 
---
+---
 
 ##  Tech Stack
   - React
