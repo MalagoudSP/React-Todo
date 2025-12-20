@@ -1,17 +1,17 @@
 # React Todo App
-
 ![React Todo](2025-11-13.png)
 
 ![Hey..!](<2025-11-13 (1).png>)
 
 A simple, efficient Todo app built with React, Redux Toolkit, React Router, and Material-UI (MUI). Includes responsive UI, robust state management, and a ready-to-run JSON-server API for quick development and testing.
 
-### Live demo: 
-react-todo-iota-ruby.vercel.app
-
 ---
-##  Tech Stack
 
+Live demo:https://react-todo-iota-ruby.vercel.app/
+
+--
+
+##  Tech Stack
   - React
   - Redux Toolkit
   - React Router
